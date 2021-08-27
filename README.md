@@ -70,7 +70,7 @@ These methods are called at specific points in the rendering process. You can us
 [Check out this resource that visually charts out the common (and not so common!) React lifecycle methods!](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 
-![Lifecycles](./assets/React_Component_Lifecycle.png)
+![Lifecycles](./assets/react_lifecycle_methods.png)
 
 #### Talking Points:
 
